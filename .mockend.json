@@ -1,5 +1,12 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Immobilier": {
+    "id": { "int": {} },
+    "ville": { "string": {} },
+    "prix": { "float": {} },
+    "etage": { "int": {} },
+    "nombre_chambre": { "int": {} },
+    "etage": { "int": {} },
+    "surface": { "int": {} },
+    "libelle": { "string": {} }
   }
 }
